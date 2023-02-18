@@ -1,0 +1,7 @@
+site_name: magic-unicorn
+docs_dir: docs
+plugins:
+  - techdocs-core
+nav:
+    - Home: index.md 
+    - Other: other.md
