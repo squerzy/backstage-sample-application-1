@@ -19,4 +19,6 @@ Once you have it installed, you can start writing programs in Magic Unicorn righ
 
  ## Contributing to Magic Unicorn 
 
- If you'd like to contribute to Magic Unicorn, we'd love to have your help! You can contribute by submitting bug reports or feature requests on our GitHub page [here](https://github.com/magic-unicorn/magic-unicorn). You can also submit pull requests with your own changes and improvements if you'd like!
+ If you'd like to contribute to Magic Unicorn, we'd love to have your help! You can contribute by submitting bug reports or feature requests on our GitHub page [here](https://github.com/magic-unicorn/magic-unicorn). You can also submit pull requests with your own changes and improvements if you'd like! 
+ 
+ New content
